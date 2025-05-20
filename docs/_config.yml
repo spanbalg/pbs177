@@ -3,7 +3,7 @@ title: PBS 177 Test Site
 
 # build settings
 plugins:
-    "jekyll-autoprefixer"
+    plugins_dir
 
 # settings for the autoprefixer plugin
 autoprefixer:
