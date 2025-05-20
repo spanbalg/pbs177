@@ -1,2 +1,12 @@
-# Site Settings
+# site settings
 title: PBS 177 Test Site
+
+# build settings
+plugins:
+	jekyll-autoprefixer
+
+# settings for the autoprefixer plugin
+autoprefixer:
+	browsers:
+		- last 4 versions
+		- Safari > 2
