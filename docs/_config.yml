@@ -3,10 +3,10 @@ title: PBS 177 Test Site
 
 # build settings
 plugins:
-	jekyll-autoprefixer
+    jekyll-autoprefixer
 
 # settings for the autoprefixer plugin
 autoprefixer:
-	browsers:
-		- last 4 versions
-		- Safari > 2
+    browsers:
+        - last 4 versions
+        - Safari > 2
